@@ -1,0 +1,42 @@
+/* navbar */
+
+@import url('https://fonts.googleapis.com/css?family=Play');
+
+@font-face{
+    font-family: Rajdhani;
+    src: url ('https://fonts.googleapis.com/css?family=Rajdhani'); ; 
+}
+
+#edit{
+    font-family: Play;
+    font-size:22px;
+}
+#edit_2{
+    font-family: Play;
+    font-size:32px;
+}
+#edit_3{
+    font-family: Arial;
+}
+#j6{
+	background-color: #eee;
+	color:black;
+}
+#j3{
+	color: black;
+}
+#j4{
+	background-color: #eee;
+}
+#img1{
+    float: right;
+    padding-left: 20px;
+    border-radius: 50%;
+}
+.recuo{
+     text-indent:2em;
+}
+#j2{
+    background-color: #66008C;
+    color: white;
+}
